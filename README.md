@@ -60,7 +60,7 @@ Hi Reddit, Since people seem to dig my different penmanship styles, I thought I'
 
 1. **Clone this repo**:
 ```bash
-git clone https://github.com/your-username/TrOCR_CRAFT.git
+git clone https://github.com/varshinivaddepalli/TrOCR_CRAFT.git
 cd TrOCR_CRAFT
 ```
 
@@ -135,11 +135,5 @@ torch.cuda.empty_cache()
 ## 🧑‍💻 Author
 
 **Varshini Vaddepalli**  
-AI Intern @ Entersoft Security  
-Project focused on OCR using computer vision & deep learning.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
