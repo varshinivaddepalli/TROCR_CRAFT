@@ -36,7 +36,7 @@ This project leverages **Microsoft's TrOCR (Transformer OCR)** and **CRAFT (Char
 │
 ├── trocr_craft.py          # Main script for detection and recognition
 ├── Input.png               # Sample input image
-├── Output.png              # Output annotated or processed image (if applicable)
+├── Final_output.png              # Output annotated or processed image (if applicable)
 ├── requirements.txt        # Required dependencies
 └── README.md               # Project documentation (this file)
 ```
