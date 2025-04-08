@@ -36,7 +36,7 @@ This project leverages **Microsoft's TrOCR (Transformer OCR)** and **CRAFT (Char
 │
 ├── trocr_craft.py          # Main script for detection and recognition
 ├── Input.png               # Sample input image
-├── Final_output.png              # Output annotated or processed image (if applicable)
+├── Final_output.png        # Output annotated or processed image (if applicable)
 ├── requirements.txt        # Required dependencies
 └── README.md               # Project documentation (this file)
 ```
@@ -60,7 +60,7 @@ Hi Reddit, Since people seem to dig my different penmanship styles, I thought I'
 
 1. **Clone this repo**:
 ```bash
-git clone https://github.com/varshinivaddepalli/TrOCR_CRAFT.git
+git clone https://github.com/varshinivaddepalli/TROCR_CRAFT
 cd TrOCR_CRAFT
 ```
 
