@@ -2,8 +2,10 @@
 # 📝 Handwritten Text Recognition using TrOCR + CRAFT
 
 This project leverages **Microsoft's TrOCR (Transformer OCR)** and **CRAFT (Character Region Awareness for Text detection)** to extract and recognize handwritten or printed text from images. It includes end-to-end detection and recognition, particularly optimized for handwritten content.
-
+## Input Image
 ![Input Image Sample](./Input.png)
+
+## Output Image
 ![Output Image Sample](./Final_output.png)
 
 ---
